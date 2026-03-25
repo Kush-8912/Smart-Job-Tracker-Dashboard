@@ -7,7 +7,7 @@ A React-based SaaS productivity tool that helps job seekers centrally track appl
 - **Roll Number:** 25BCS10163
 - **Student Mail ID:** kushagra.25bcs10163@sst.scaler.com
 - **Submitted to:** Mrinal Bhattacharya Sir
-- **Deployed Link:** 
+- **Deployed Link:** https://smart-job-tracker-dashboard.vercel.app/
 
 ## 📌 Project Overview
 The Smart Job Tracker Dashboard is designed to solve the problem of managing dozens of job applications across multiple platforms. Most job seekers use spreadsheets or notes, which lack automation, filtering, analytics, and proper organization.
